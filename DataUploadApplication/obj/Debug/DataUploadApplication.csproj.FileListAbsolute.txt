@@ -7,3 +7,12 @@ C:\Users\nagen\Desktop\XML to SQL Server\DataUploadApplication\DataUploadApplica
 C:\Users\nagen\Desktop\XML to SQL Server\DataUploadApplication\DataUploadApplication\obj\Debug\Interop.SQLXMLBULKLOADLib.dll
 C:\Users\nagen\Desktop\XML to SQL Server\DataUploadApplication\DataUploadApplication\obj\Debug\DataUploadApplication.csproj.ResolveComReference.cache
 C:\Users\nagen\Desktop\XML to SQL Server\DataUploadApplication\DataUploadApplication\obj\Debug\DataUploadApplication.csprojResolveAssemblyReference.cache
+C:\Projects\Samples\DataUpload\DataUploadApplication\bin\Debug\DataUploadApplication.exe.config
+C:\Projects\Samples\DataUpload\DataUploadApplication\obj\Debug\Interop.SQLXMLBULKLOADLib.dll
+C:\Projects\Samples\DataUpload\DataUploadApplication\obj\Debug\DataUploadApplication.csproj.ResolveComReference.cache
+C:\Projects\Samples\DataUpload\DataUploadApplication\obj\Debug\DataUploadApplication.exe
+C:\Projects\Samples\DataUpload\DataUploadApplication\obj\Debug\DataUploadApplication.pdb
+C:\Projects\Samples\DataUpload\DataUploadApplication\bin\Debug\Data.xml
+C:\Projects\Samples\DataUpload\DataUploadApplication\bin\Debug\DataUploadApplication.exe
+C:\Projects\Samples\DataUpload\DataUploadApplication\bin\Debug\DataUploadApplication.pdb
+C:\Projects\Samples\DataUpload\DataUploadApplication\obj\Debug\DataUploadApplication.csprojResolveAssemblyReference.cache
